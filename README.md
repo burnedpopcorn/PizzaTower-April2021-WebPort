@@ -25,7 +25,7 @@ The only way for them to work is if you have a web server running this, or a loc
 - Which you can do by entering the directory containing runner.html and other files and typing the command python3 -m http.server in the linux terminal or py -m http.server for windows powershell given you installed python
 - At which point you can enter http://localhost:8000/runner.html to play the game locally
 
-## Thanks to
+## Shout-outs to
 - BFDIFirey, for requesting it over at my [1.1.0 Web Port](https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port)
 - Angelos2008, for the source code, and later specifing the Gamemaker Version (You can find it [Here](https://github.com/Angelos2008/PizzaTowerApril2021))
 - And of course Tour de Pizza for the base game
