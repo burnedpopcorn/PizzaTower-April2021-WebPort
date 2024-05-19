@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1O3nC8UVjLuGYYfYI9OQo3ehtN1dm-YFn/view?usp=shari
 - In which you will find a folder called PizzaTower_GM2_(some numbers)_VM after you compiled the project
 - The files you use to run the project on a server are within the /runner subdirectory
 
-The said files will NOT run locally as file:// will just result in CORS errors and will not allow runner.html (the main file that runs this build of Pizza Tower) to read the game files
+The said files will NOT run locally as file:// will just result in CORS errors and will not allow runner.html (the main file that runs this build of Pizza Tower) to read the game files (Limitation of Emscripten, which is used when compiling with these settings)
 
 The only way for them to work is if you have a web server running this, or a local server using something like python
 - Which you can do by entering the directory containing runner.html and other files and typing the command python3 -m http.server in the linux terminal or py -m http.server for windows powershell given you installed python
