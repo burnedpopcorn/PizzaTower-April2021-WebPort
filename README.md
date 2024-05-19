@@ -2,7 +2,7 @@
 
 A Port of the April 2021 Build of Pizza Tower to the Web Browser
 
-Made because @BFDIFirey requested it, and I had some free time
+Made it because @BFDIFirey requested it, and I had some free time
 
 ## Also I will NOT be Updating it at all
   
