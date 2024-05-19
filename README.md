@@ -6,7 +6,7 @@ Made because @BFDIFirey requested it, and I had some free time
 
 ## Also I will NOT be Updating it at all
   
-  Why? Because I'm bad at coding, and I can't find anything major to fix
+  Why? Because I'm bad at coding, I can't find anything major to fix, and I'm just not very interested in it
 
 ## Files for running it on a Server are linked here:
 (PlaceHolder)
