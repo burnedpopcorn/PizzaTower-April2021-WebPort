@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1O3nC8UVjLuGYYfYI9OQo3ehtN1dm-YFn/view?usp=shari
 ## To Compile and Run it for Yourself
 
 > [!IMPORTANT]
-> Use Gamemaker Studio Version 2023.4.0.113, because anything lower will simply not compile and anything newer fucks up when compiling
+> Use Gamemaker Studio Version 2023.4.0.84-113, because anything lower will simply not compile and anything newer fucks up when compiling
 - Download the source code from @Angelos2008, where he has the code hosted [here](https://github.com/Angelos2008/PizzaTowerApril2021)
 - Use GX.GAMES and VM options to compile it, and to obtain the compiled files from GameMaker Studio for free, just go to C:/Users/(your username)/AppData/Local/GameMakerStudio2/GMS2TEMP while locally running the game
 - In which you will find a folder called PizzaTower_GM2_(some numbers)_VM after you compiled the project
