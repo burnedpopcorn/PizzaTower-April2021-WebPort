@@ -13,6 +13,9 @@ Made it because @BFDIFirey requested it, and I had some free time
 ## Files for running it on a Server are linked here:
 https://drive.google.com/file/d/1O3nC8UVjLuGYYfYI9OQo3ehtN1dm-YFn/view?usp=sharing
 
+> [!WARNING]
+> This is an outdated and bloated build. The one on the main website is the Latest Build. I will eventually make a proper release of the newest build.
+
 ## To Compile and Run it for Yourself
 
 > [!IMPORTANT]
