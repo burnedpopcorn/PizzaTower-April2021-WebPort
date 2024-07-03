@@ -8,13 +8,10 @@ Made it because @BFDIFirey requested it, and I had some free time
 
 ## Also I will NOT be Updating it at all
   
-  Why? Because I'm bad at coding, I can't find anything major to fix, and I'm just not very interested in it
+  Why? Because  I'm just not very interested in it
 
-## Files for running it on a Server are linked here:
-https://drive.google.com/file/d/1O3nC8UVjLuGYYfYI9OQo3ehtN1dm-YFn/view?usp=sharing
-
-> [!WARNING]
-> This is an outdated and bloated build. The one on the main website is the Latest Build. I will eventually make a proper release of the newest build.
+## Download for Self-Hosting
+Download the Latest (and probably only) release from the Releases Tab
 
 ## To Compile and Run it for Yourself
 
