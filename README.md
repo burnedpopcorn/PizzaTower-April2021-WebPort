@@ -6,9 +6,11 @@ Demo Site: http://dummydomain.x10.mx/pt-april-build/PizzaTower_GM2.html
 
 Made it because @BFDIFirey requested it, and I had some free time
 
-## Also I will NOT be Updating it at all
+# I will be Archiving this Repo!
   
-  Why? Because  I'm just not very interested in it
+  Why? Because I'm just not very interested in it
+
+  But I will be keeping the website up because I can
 
 ## Download for Self-Hosting
 Download the Latest (and probably only) release from the Releases Tab
